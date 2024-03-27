@@ -351,7 +351,7 @@ Number.parseFloat('3.14159');
 
 The `Math` object contains some properties representing common mathematical
 values, such as `Math.PI` and `Math.E`, as well as a number of methods for
-performing useful calculations.
+performing useful calculations. 
 
 #### `Math.ceil()` / `Math.floor()` / `Math.round()`
 
